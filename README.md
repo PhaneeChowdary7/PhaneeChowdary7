@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhaneeChowdary7
 - ❤ I’m interested in Python, Machine Learning, Django
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me <a href="https://twitter.com/ChowdaryPhanee">ChowdaryPhanee</a>
+- 📫 How to reach me <a href="(https://twitter.com/phaneestwt?t=AOsThyxQQSyTJKI9lF1lpw&s=09)">ChowdaryPhanee</a>
 
 
 <!---
